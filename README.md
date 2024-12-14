@@ -1,1 +1,1 @@
-https://github.com/kkcaterina/posmotri_v_okno
+https://github.com/kkcaterina/posmotri-v-okno-fd
